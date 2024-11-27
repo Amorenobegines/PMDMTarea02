@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/image"
+        style="@style/image"
+        android:src="@drawable/idioma" />
+
+    <TextView
+        android:id="@+id/message"
+        style="@style/idiomaStyle"
+        android:text="@string/change_language"/>
+
+    <Switch
+        android:id="@+id/languageSwitch"
+        style="@style/switchStyle"
+        android:text="@string/change_languge"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+    <!-- Botón de cancelar -->
+    <Button
+        android:id="@+id/cancel_button"
+        android:text="@string/cancel"
+        style="@style/buttonStyle" />
+
+</LinearLayout>

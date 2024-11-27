@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/image"
+        style="@style/image"
+        android:src="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/name"
+        style="@style/text_name"
+        android:text="@string/name" />
+
+    <TextView
+        android:id="@+id/description"
+        style="@style/desc_hab"
+        android:text="@string/description" />
+
+    <TextView
+        android:id="@+id/hability"
+        style="@style/desc_hab"
+        android:text="@string/hability" />
+
+</LinearLayout>

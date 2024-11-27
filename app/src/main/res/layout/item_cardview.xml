@@ -1,0 +1,29 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+        <variable
+            name="item"
+            type="com.example.moreno_begines_alicia_pmdm02.Item" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="120dp">
+
+        <LinearLayout
+            style="@style/Layout_cardview">
+
+            <ImageView
+                android:id="@+id/image"
+                style="@style/image_cardview"
+                android:src="@drawable/ic_launcher_background" />
+
+                <TextView
+                    android:id="@+id/name"
+                    style="@style/text_name"
+                    android:text="@string/name"/>
+
+            </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+</layout>

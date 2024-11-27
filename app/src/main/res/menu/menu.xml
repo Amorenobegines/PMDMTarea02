@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/action_acerca_de"
+        android:icon="@drawable/acerca_de"
+        android:title="@string/menu_acerca_de"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ajustes"
+        android:title="@string/settings">
+
+        <!-- Submenú para los elementos dentro de settings -->
+        <menu>
+            <item
+                android:id="@+id/action_language"
+                android:title="@string/language"
+                app:actionLayout="@layout/activity_switch" />
+
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/itemListFragment">
+    <fragment
+        android:id="@+id/itemListFragment"
+        android:name="com.example.moreno_begines_alicia_pmdm02.ItemListFragment"
+        android:label="item_list_fragment"
+        tools:layout="@layout/item_list_fragment" />
+    <fragment
+        android:id="@+id/itemDetailFragment"
+        android:name="com.example.moreno_begines_alicia_pmdm02.ItemDetailFragment"
+        android:label="item_detail_fragment"
+        tools:layout="@layout/item_detail_fragment" />
+</navigation>

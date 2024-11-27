@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moreno_Begines_Alicia_PMDM02</string>
+    <string name="list">List of Characters</string>
+    <string name="details">Details of Character</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="hability">Ability</string>
+    <string name="language">Language</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="menu_acerca_de">About.</string>
+    <string name="change_languge">Inglés/Español</string>
+    <string name="message">Press to change language:</string>
+    <string name="change_language">Change Language</string>
+    <string name="mensaje_acerca">Application developed by Alicia Moreno Begines. Version 1.0.</string>
+    <string name="mensaje_usu">The character that has been selected is </string>
+    <string name="snackbar_men">Welcome to the world of Mario.</string>
+    <string name="cancel">Cancel</string>
+    <string name="men_cambio_idioma">Change language to English</string>
+
+
+    <string name="mario_name">Mario</string>
+    <string name="mario_desc">Mario the main hero of the Mushroom Kingdom. Mario is very positive and always happy. You can recognize him by his blue overalls, his red cap and his characteristic mustache.</string>
+    <string name="mario_hab">Be bigger, throw ice or fire balls, climb, glide, fly, jump higher, etc.</string>
+
+    <string name="luigi_name">Luigi</string>
+    <string name="luigi_desc">Luigi is Mario\'s younger brother, his first appearance was in the 1983 game Mario Bros.. He is said to be shy and cowardly, but in some games he proves otherwise.</string>
+    <string name="luigi_hab">Wider and longer jump.</string>
+
+    <string name="peach_name">Peach</string>
+    <string name="peach_desc">Peach is the princess and ruler of the fictional Mushroom Kingdom, where she resides in her castle along with Toads.</string>
+    <string name="peach_hab">Peach has telekinetic powers</string>
+
+    <string name="toad_name">Toad</string>
+    <string name="toad_desc">Known for his cheerful and loyal personality, and his ability to provide useful information to Mario and his friends. He works in the service of Princess Peach.</string>
+    <string name="toad_hab">Allows you to punish champions who are immune to poison.</string>
+
+    <string name="yoshi_name">Yoshi</string>
+    <string name="yoshi_desc">Mario\'s trusty companion from Yoshi\'s Island. It is green. Yoshi is friendly and calm.</string>
+    <string name="yoshi_hab">Yoshi have ability is being able to eat enemies after catching them with his tongue and then laying eggs.</string>
+
+    <string name="daisy_name">Daisy</string>
+    <string name="daisy_desc">The princess of Sarasaland. Daisy is cheerful, energetic and has a very brave heart.</string>
+    <string name="daisy_hab">She is a superhuman with seismic powers.</string>
+
+    <string name="rosalina">Rosalina</string>
+    <string name="rosalina_desc">A mysterious girl who travels through the galaxy accompanied by her family of star-shaped creatures called sparkles.</string>
+    <string name="rosalina_hab">Ability to control gravity.</string>
+
+    <string name="bowser_name">Bowser</string>
+    <string name="bowser_desc">Also called Koopa, he is the king of the Koopas and the main antagonist of Super Mario Bros. He has tried to conquer the Mushroom Kingdom on countless occasions.</string>
+    <string name="bowser_hab">It shoot fireballs or a constant stream of fire that can reach great distances.</string>
+
+    <string name="wario_name">Wario</string>
+    <string name="wario_desc">Mario\'s self-proclaimed archenemy.</string>
+    <string name="wario_hab">He is strong enough to grab enemies much larger than him.</string>
+
+    <string name="waluigi_name">Waluigi</string>
+    <string name="waluigi_desc">Wario\'s friend and accomplice. Waluigi is Luigi\'s self-proclaimed rival.</string>
+    <string name="waluigi_hab">Make deceptive moves</string>
+
+    <string name="donkey_name">Donkey Kong</string>
+    <string name="donkey_desc">The powerful gorilla who is Mario\'s friend. He is strong and protective of his jungle home.</string>
+    <string name="donkey_hab">It is mainly based on its marking ability which is its brute force.</string>
+
+    <string name="boo_name">King Boo</string>
+    <string name="boo_desc">Some mischievous ghosts that usually wander in dark and abandoned places.</string>
+    <string name="boo_hab">These ghosts may be creepy, but they\'re also incredibly shy.</string>
+
+    <string name="diddy_name">Diddy Kong</string>
+    <string name="diddy_desc">Donkey Kong\'s trusted friend and companion. You will recognize him by his red shirt with yellow stars and red cap.</string>
+    <string name="diddy_hab">Diddy Kong is agile and stands out for being a great jumper. It\'s very fast.</string>
+
+    <string name="goombas_name">Goombas</string>
+    <string name="goombas_dresc">A Goomba is a type of mushroom, whose first appearance was in the video game Super Mario Bros. as the first enemy that the player encounters.</string>
+    <string name="goombas_hab">Goombas deal damage if touched from the side or dropped from above.</string>
+
+
+</resources>

@@ -1,0 +1,79 @@
+
+<resources>
+    <string name="app_name">Moreno_Begines_Alicia_PMDM02</string>
+
+    <string name="list">Lista de Personajes</string>
+    <string name="details">Detalles del Personaje</string>
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+    <string name="hability">Habilidad</string>
+    <string name="language">Idioma</string>
+    <string name="settings">Ajustes</string>
+    <string name="home">Inicio</string>
+    <string name="menu_acerca_de">Acerca de...</string>
+    <string name="change_languge">Español/Inglés</string>
+    <string name="message">Pulse para cambiar el idioma</string>
+    <string name="change_language">Cambiar el idioma</string>
+    <string name="mensaje_acerca">Aplicación desarrollada por Alicia Moreno Begines. Versión 1.0.</string>
+    <string name="mensaje_usu">Se ha seleccionado el personaje:  </string>
+    <string name="snackbar_men">Bienvenidos al mundo de Mario.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="men_cambio_idioma">Cambio idioma a Español</string>
+
+    <string name="mario_name">Mario</string>
+    <string name="mario_desc">Mario el héroe principal del Reino Champiñón. Mario es muy positivo y siempre está alegre. Lo podrás reconocer por sus overoles de color azul, su gorra roja y su característico bigote.</string>
+    <string name="mario_hab">Ser más grande, lanzar bolas de hielo o fuego, trepar, planear, volar, saltar más alto, etc.</string>
+
+    <string name="luigi_name">Luigi</string>
+    <string name="luigi_desc">Luigi es el hermano menor de Mario, su primera aparición fue en el juego Mario Bros. de 1983. Se dice que es tímido y cobarde, pero en algunos juegos demuestra lo contrario.</string>
+    <string name="luigi_hab">Salto más amplio y más largo.</string>
+
+    <string name="peach_name">Peach</string>
+    <string name="peach_desc">Peach es la princesa y gobernante del ficticio Reino Champiñón, donde reside en su castillo junto con Toads.</string>
+    <string name="peach_hab">Peach tiene poderes telequinéticos</string>
+
+    <string name="toad_name">Toad</string>
+    <string name="toad_desc">Conocido por su personalidad alegre y leal, y por su capacidad para proporcionar información útil a Mario y sus amigos. Trabaja al servicio de la Princesa Peach.</string>
+    <string name="toad_hab">Permite castigar a los campeones que son inmunes al veneno.</string>
+
+    <string name="yoshi_name">Yoshi</string>
+    <string name="yoshi_desc">El confiable compañero de Mario originario de la Isla de Yoshi. Es de color verde. Yoshi es amable y tranquilo.</string>
+    <string name="yoshi_hab">Yoshi tiene el poderse comer enemigos tras atraparlos con su lengua y después poner huevos.</string>
+
+    <string name="daisy_name">Daisy</string>
+    <string name="daisy_desc">La princesa de Sarasaland. Daisy es alegre, enérgica y con un corazón muy valiente.</string>
+    <string name="daisy_hab">Es una superhumana con poderes sísmicos (que producen terremotos)</string>
+
+    <string name="rosalina">Rosalina</string>
+    <string name="rosalina_desc">Una misteriosa chica que viaja a través de la galaxia acompañada de su familia de criaturas con forma de estrella llamadas destellos.</string>
+    <string name="rosalina_hab">Habilidad para controlar la gravedad</string>
+
+    <string name="bowser_name">Bowser</string>
+    <string name="bowser_desc">También llamado Koopa, es el rey de los Koopas y principal antagonista de Super Mario Bros. Ha intentado conquistar el Reino Champiñón en innumerables ocasiones</string>
+    <string name="bowser_hab">Dispara bolas de fuego o una corriente constante de fuego que puede alcanzar grandes distancias.</string>
+
+    <string name="wario_name">Wario</string>
+    <string name="wario_desc">El autoproclamado archienemigo de Mario.</string>
+    <string name="wario_hab">Es lo suficientemente fuerte como para agarrar a enemigos mucho más grandes que él.</string>
+
+    <string name="waluigi_name">Waluigi</string>
+    <string name="waluigi_desc">Amigo y cómplice de Wario. Waluigi es el autoproclamado rival de Luigi.</string>
+    <string name="waluigi_hab">Hacer movimientos engañosos</string>
+
+    <string name="donkey_name">Donkey Kong</string>
+    <string name="donkey_desc">El poderoso gorila que es amigo de Mario. Es fuerte y protector de su hogar en la jungla.</string>
+    <string name="donkey_hab">Se basa principalmente en su habilidad de marca que es su fuerza bruta.</string>
+
+    <string name="boo_name">Rey Boo</string>
+    <string name="boo_desc">Puede que estos fantasmas sean espeluznantes, pero también son increíblemente tímidos.</string>
+    <string name="boo_hab">Habilidad para volverse invisible</string>
+
+    <string name="diddy_name">Diddy Kong</string>
+    <string name="diddy_desc">El amigo y compañero de confianza de Donkey Kong. Lo reconocerás por su camiseta roja con estrellas amarillas y gorra roja.</string>
+    <string name="diddy_hab">Diddy Kong es ágil y se destaca por ser un gran saltador. Es muy veloz.</string>
+
+    <string name="goombas_name">Goombas</string>
+    <string name="goombas_dresc">Un Goomba es una especie de hongo, cuya primera aparición fue en el videojuego Super Mario Bros como el primer enemigo que el jugador encuentra.</string>
+    <string name="goombas_hab">Los Goombas dañan si lo tocan de un lado o si se le caen desde arriba.</string>
+
+</resources>

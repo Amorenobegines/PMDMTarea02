@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#03A9F4</color> <!-- Azul para la Toolbar y el Fondo -->
+    <color name="colorSwitch">#E9736A</color>   <!-- Naranja para el Switch -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Blanco para el fondo general -->
+    <color name="colorSplash">#00BCD4</color> <!-- Azul para el fondo del logo Splash -->
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- Definir el estilo para el texto activity_switch-->
+    <style name="idiomaStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/colorSwitch</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <!-- Definir el estilo para el switch activity_switch-->
+    <style name="switchStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:textColor">@color/colorSwitch</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <!-- Definir el estilo para el button activity_switch-->
+    <style name="buttonStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/backgroundColor</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <!-- item_cardview  -->
+    <!-- Definir el estilo para el button item_cardview-->
+    <style name="Layout_cardview" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <!-- Definir el estilo para el image item_cardview-->
+    <style name="image_cardview" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
+    <!-- Definir el estilo para el text item_cardview-->
+    <style name="text_name" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+    </style>
+
+    <!-- Definir el estilo para el text item_detail_fragment-->
+    <style name="desc_hab" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">19dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_margin">30dp</item>
+    </style>
+
+    <style name="image" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">350dp</item>
+        <item name="android:layout_height">400dp</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+</resources>
